@@ -12,6 +12,8 @@ namespace world_hello
         {
             Console.WriteLine("hello,world");
             Console.ReadLine();
+            Console.WriteLine("互联网新人类将决定人类新的未来");
+            Console.ReadLine();
         }
     }
 }
